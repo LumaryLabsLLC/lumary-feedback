@@ -4,7 +4,7 @@ This is the official feedback repository for [Lumary](https://lumary.app) — th
 
 ## 🐛 Report a Bug
 
-Found something that isn't working right? [Open a bug report](https://github.com/adibhanna/lumary-feedback/issues/new?template=bug_report.yml).
+Found something that isn't working right? [Open a bug report](https://github.com/LumaryLabsLLC/lumary-feedback/issues/new?template=bug_report.yml).
 
 Please include:
 - Steps to reproduce the issue
@@ -13,7 +13,7 @@ Please include:
 
 ## 💡 Request a Feature
 
-Have an idea for a new feature? [Start a discussion](https://github.com/adibhanna/lumary-feedback/discussions/new?category=feature-requests).
+Have an idea for a new feature? [Start a discussion](https://github.com/LumaryLabsLLC/lumary-feedback/discussions/new?category=feature-requests).
 
 We read every suggestion and prioritize based on community feedback.
 

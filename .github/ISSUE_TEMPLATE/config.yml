@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Feature Request
-    url: https://github.com/adibhanna/lumary-feedback/discussions/new?category=ideas
+    url: https://github.com/LumaryLabsLLC/lumary-feedback/discussions/new?category=ideas
     about: Suggest a new feature or improvement for Lumary
   - name: Question
-    url: https://github.com/adibhanna/lumary-feedback/discussions/new?category=q-a
+    url: https://github.com/LumaryLabsLLC/lumary-feedback/discussions/new?category=q-a
     about: Ask a question about using Lumary
